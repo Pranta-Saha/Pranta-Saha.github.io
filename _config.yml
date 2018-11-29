@@ -6,10 +6,10 @@ permalink:        /:categories/:slug/
 # relative_permalinks: true
 
 # Setup
-title:            Ove's Notes
+title:            Pranta's Notes
 tagline:          'Notes about this and that and softwares'
-description:      'Ove Bepari, An INTJ, CSE Undergrad Coder Who Usually Writes Executable Poetry'
-url:              https://ovebepari.github.io
+description:      ''
+url:              https://Pranta-Saha.github.io
 baseurl:          ''          
 
 plugins:
@@ -17,8 +17,8 @@ plugins:
   - jekyll-feed
 
 author:
-  name:           'ovebepari'
-  url:            https://github.com/ovebepari
+  name:           'Pranta-Saha'
+  url:            https://github.com/Pranta-Saha
 
 
 # For a global message in the head
